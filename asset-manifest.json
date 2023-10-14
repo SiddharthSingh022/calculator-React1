@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colour_picker/static/css/main.073c9b0a.css",
+    "main.js": "/colour_picker/static/js/main.b0ec51c2.js",
+    "static/js/787.b3ca4345.chunk.js": "/colour_picker/static/js/787.b3ca4345.chunk.js",
+    "index.html": "/colour_picker/index.html",
+    "main.073c9b0a.css.map": "/colour_picker/static/css/main.073c9b0a.css.map",
+    "main.b0ec51c2.js.map": "/colour_picker/static/js/main.b0ec51c2.js.map",
+    "787.b3ca4345.chunk.js.map": "/colour_picker/static/js/787.b3ca4345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b0ec51c2.js"
+  ]
+}
